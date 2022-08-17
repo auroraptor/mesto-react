@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mesto-react/static/css/main.c04cf28a.css",
+    "main.css": "/mesto-react/static/css/main.648af1d0.css",
     "main.js": "/mesto-react/static/js/main.c1cb2839.js",
     "static/js/787.5530211c.chunk.js": "/mesto-react/static/js/787.5530211c.chunk.js",
     "static/media/inter-500.woff": "/mesto-react/static/media/inter-500.9053572c46aeb4b16caa.woff",
@@ -9,6 +9,7 @@
     "static/media/inter-500.woff2": "/mesto-react/static/media/inter-500.293fd13dbca5a3e450ef.woff2",
     "static/media/inter-900.woff2": "/mesto-react/static/media/inter-900.15ca31c0a2a68f76d2d1.woff2",
     "static/media/inter-400.woff2": "/mesto-react/static/media/inter-400.c8ba52b05a9ef10f4758.woff2",
+    "static/media/__avatar.jpg": "/mesto-react/static/media/__avatar.9a465d27cc4844854ee1.jpg",
     "static/media/__logo_color_white.svg": "/mesto-react/static/media/__logo_color_white.1f1e95914acec5e33236.svg",
     "static/media/__like_disabled.svg": "/mesto-react/static/media/__like_disabled.7913ddfd147a48616b09.svg",
     "index.html": "/mesto-react/index.html",
@@ -18,12 +19,12 @@
     "static/media/__edit-avatar.svg": "/mesto-react/static/media/__edit-avatar.a086f758840ae814ecde.svg",
     "static/media/__close-icon.svg": "/mesto-react/static/media/__close-icon.2ceb783afbab75916ddc.svg",
     "static/media/__add-button.svg": "/mesto-react/static/media/__add-button.d86bb2edc2f6eadb96b7.svg",
-    "main.c04cf28a.css.map": "/mesto-react/static/css/main.c04cf28a.css.map",
+    "main.648af1d0.css.map": "/mesto-react/static/css/main.648af1d0.css.map",
     "main.c1cb2839.js.map": "/mesto-react/static/js/main.c1cb2839.js.map",
     "787.5530211c.chunk.js.map": "/mesto-react/static/js/787.5530211c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c04cf28a.css",
+    "static/css/main.648af1d0.css",
     "static/js/main.c1cb2839.js"
   ]
 }
